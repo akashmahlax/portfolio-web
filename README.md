@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# portfolio web using react with framer motion
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
